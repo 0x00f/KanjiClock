@@ -1,5 +1,5 @@
 #include <Wire.h>
-#include "rgb_lcd.h"
+#include "lib/Grove_LCD_RGB_Backlight/rgb_lcd.h"
 
 rgb_lcd lcd;
 
